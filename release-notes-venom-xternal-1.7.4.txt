@@ -1,0 +1,44 @@
+
+`7MMF'   `7MF'                                             `7MN.   `7MF'`7MM"""YMM MMP""MM""YMM 
+  `MA     ,V                                                 MMN.    M    MM    `7 P'   MM   `7 
+   VM:   ,V .gP"Ya `7MMpMMMb.  ,pW"Wq.`7MMpMMMb.pMMMb.       M YMb   M    MM   d        MM      
+    MM.  M',M'   Yb  MM    MM 6W'   `Wb MM    MM    MM       M  `MN. M    MMmmMM        MM      
+    `MM A' 8M""""""  MM    MM 8M     M8 MM    MM    MM       M   `MM.M    MM   Y  ,     MM      
+     :MM;  YM.    ,  MM    MM YA.   ,A9 MM    MM    MM  ,,   M     YMM    MM     ,M     MM      
+      VF    `Mbmmd'.JMML  JMML.`Ybmd9'.JMML  JMML  JMML.db .JML.    YM  .JMMmmmmMMM   .JMML.    
+                                                                                                
+                                                                                                
+
+		 			    1.7.4
+					  ---------
+
+				+ Fixed JSON syntax formatting
+				+ Restricted some colors
+				+ Refactored whole theme palette
+				
+		 			    1.7.5
+					  ---------
+
+				+ Theme file got corrupted, full redesign
+				+ JavaScript based improvements
+
+
+
+					⠀⣀⡤⠤⠖⠒⠒⠂⠤⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+				     ⠀⠀⢠⠔⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+				     ⠀⢠⠋⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠈⢧⡀⠀⠀⠀⠀⠀⠀⠀⠀
+				     ⢠⡏⠀⡜⢇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡿⡄⠈⢇⠀⠀⠀⠀⠀⠀⠀⠀
+				     ⣸⠀⢸⠁⠸⣄⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠀⢹⠀⢸⡀⠀⠀⠀⠀⠀⠀⠀
+				     ⡇⠀⡎⠀⠀⠸⣆⠀⠀⠀⠀⠀⠀⢀⠞⠀⠀⢈⠆⢸⡇⠀⠀⠀⠀⠀⠀⠀
+				     ⡇⠀⡇⠀⠀⠀⠈⠳⡀⣀⢀⡄⡰⠋⠀⠀⠀⢸⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀
+				     ⢣⠀⢇⠀⠀⠀⠀⠀⠉⡻⢸⠉⠁⠀⠀⠀⠀⠈⡆⢸⠁⠀⠀⠀⠀⠀⠀⠀
+				     ⢸⢠⠈⢆⠀⠀⠀⠀⢀⠇⠀⢦⡀⠀⠀⠀⢀⠞⡰⠸⠀⠀⠀⠀⠀⠀⠀⠀
+				     ⢸⠀⣦⠘⢆⣀⡠⠒⢉⣀⣀⡀⠑⠢⢄⣠⠞⣠⠇⢰⠀⠀⠀⠀⠰⣄⡀⠀
+				     ⠸⡄⠹⣷⣶⣖⡖⣿⣿⣟⣟⡟⣿⣖⣦⣴⣾⡟⠀⡼⠀⠀⠀⠀⠀⢸⡙⡄
+				     ⠀⠹⡄⣿⣏⠙⢻⢿⠿⣿⡿⡿⠿⡿⠙⢉⣹⠁⡾⠃⠀⠀⠀⠀⠀⢠⡇⣻
+				     ⠀⠀⠙⣿⣿⣦⢈⡦⠿⠛⠻⢿⡛⠓⢦⣿⢃⡞⠁⠀⠀⠀⠀⣀⡤⠊⢠⠇
+				     ⠀⠀⠀⠘⣾⢿⡿⣆⠀⡀⠀⠀⠙⠆⠀⠙⢾⠀⠀⢀⡴⠚⠉⠁⣀⡴⠋⠀
+				     ⠀⠀⠀⠀⠘⣎⣳⢛⡇⣾⠓⢦⡀⠀⠀⠀⠈⠓⠖⠋⠀⠀⢠⠞⠁⠀⠀⠀
+				     ⠀⠀⠀⠀⠀⠙⡏⢳⣹⠻⣾⣧⢿⢦⡀⠀⠀⠀⠀⠀⠀⣰⠏⠀⠀⠀⠀⠀
+				     ⠀⠀⠀⠀⠀⠀⠹⣄⠓⠦⠯⠽⠊⣸⠛⠲⠤⠤⠤⠤⠚⠁⠀⠀⠀⠀⠀⠀
+				     ⠀⠀⠀⠀⠀⠀⠀⠈⠓⠂⠤⠒⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
