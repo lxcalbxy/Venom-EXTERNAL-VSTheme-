@@ -1,3 +1,7 @@
+In order to edit this theme you should install this: https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner
+
+
+
 # "Venom !EXTERNAL"
 The theme that could eat you down. 🕷
 
