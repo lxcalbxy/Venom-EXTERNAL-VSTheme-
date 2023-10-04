@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Venom !External (1)" GUID="{1e245186-ca29-4e42-9eb0-45195d6e8485}" BaseGUID="{4166cc76-69ae-4773-82b5-a8c9035ffdbd}">
+  <Theme Name="Venom !External" GUID="{1e245186-ca29-4e42-9eb0-45195d6e8485}" BaseGUID="{4166cc76-69ae-4773-82b5-a8c9035ffdbd}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF000000" />
